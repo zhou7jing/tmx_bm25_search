@@ -1,178 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <tmx version="1.4">
-  <header creationtool="SDL Language Platform" creationtoolversion="8.0" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="zh-CN" srclang="zh-CN" creationdate="20240430T052939Z" creationid="TKEASIA\10551818">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.0" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="zh-CN" srclang="zh-CN" creationdate="20240430T052939Z" creationid="ASIA\10551818">
     <prop type="x-Date:DateTime"></prop>
     <prop type="x-Project Name:SingleString"></prop>
     <prop type="x-Language:SinglePicklist">chs-ENG</prop>
     <prop type="x-Accuracy Level:SinglePicklist">Reference</prop>
-    <prop type="x-Final Reviewer:MultiplePicklist">Dorren Zhou</prop>
+    <prop type="x-Final Reviewer:MultiplePicklist">Do</prop>
     <prop type="x-Recognizers">RecognizeAll</prop>
-    <prop type="x-TMName">561 R000094910c_技术救援_救援通道≥1m时的救援方法__zh-CN_en-US</prop>
+    <prop type="x-TMName">救援通道</prop>
   </header>
-  <body>
-    <tu creationdate="20211123T094835Z" creationid="ALIGN!" changedate="20240430T053004Z" changeid="TKEASIA\10551818" lastusagedate="20211123T094835Z">
+  <body>  
+    <tu creationdate="20211123T094835Z" creationid="ALIGN!" changedate="20240430T053004Z" changeid="ASIA\10551818" lastusagedate="20211123T094835Z">
       <prop type="x-Origin">Alignment</prop>
       <prop type="x-OriginalFormat">TradosTranslatorsWorkbench</prop>
       <prop type="x-Date:DateTime">20180502T010000Z</prop>
-      <prop type="x-Project Name:SingleString">561 R000094910c_技术救援_救援通道≥1m时的救援方法_</prop>
+      <prop type="x-Project Name:SingleString">救援方法</prop>
       <prop type="x-Language:SinglePicklist">chs-ENG</prop>
       <prop type="x-Accuracy Level:SinglePicklist">Reference</prop>
-      <prop type="x-Final Reviewer:MultiplePicklist">Dorren Zhou</prop>
-      <tuv xml:lang="zh-CN">
-        <seg>在首层放置安全护栏。</seg>
-      </tuv>
-      <tuv xml:lang="en-US">
-        <seg>Lay out the safety guard fence at the home landing.</seg>
-      </tuv>
-    </tu>
-    <tu creationdate="20211123T094835Z" creationid="ALIGN!" changedate="20240430T053004Z" changeid="TKEASIA\10551818" lastusagedate="20211123T094835Z">
-      <prop type="x-Origin">Alignment</prop>
-      <prop type="x-OriginalFormat">TradosTranslatorsWorkbench</prop>
-      <prop type="x-Date:DateTime">20180502T010000Z</prop>
-      <prop type="x-Project Name:SingleString">561 R000094910c_技术救援_救援通道≥1m时的救援方法_</prop>
-      <prop type="x-Language:SinglePicklist">chs-ENG</prop>
-      <prop type="x-Accuracy Level:SinglePicklist">Reference</prop>
-      <prop type="x-Final Reviewer:MultiplePicklist">Dorren Zhou</prop>
-      <tuv xml:lang="zh-CN">
-        <seg>打开控制柜门</seg>
-      </tuv>
-      <tuv xml:lang="en-US">
-        <seg>Open the controller door.</seg>
-      </tuv>
-    </tu>
-    <tu creationdate="20211123T094835Z" creationid="ALIGN!" changedate="20240430T053004Z" changeid="TKEASIA\10551818" lastusagedate="20211123T094835Z">
-      <prop type="x-Origin">Alignment</prop>
-      <prop type="x-OriginalFormat">TradosTranslatorsWorkbench</prop>
-      <prop type="x-Date:DateTime">20180502T010000Z</prop>
-      <prop type="x-Project Name:SingleString">561 R000094910c_技术救援_救援通道≥1m时的救援方法_</prop>
-      <prop type="x-Language:SinglePicklist">chs-ENG</prop>
-      <prop type="x-Accuracy Level:SinglePicklist">Reference</prop>
-      <prop type="x-Final Reviewer:MultiplePicklist">Dorren Zhou</prop>
-      <tuv xml:lang="zh-CN">
-        <seg>判断门区（开锁区）。</seg>
-      </tuv>
-      <tuv xml:lang="en-US">
-        <seg>Judge whether within the door zone (unlocking zone).</seg>
-      </tuv>
-    </tu>
-    <tu creationdate="20211123T094835Z" creationid="ALIGN!" changedate="20240430T053004Z" changeid="TKEASIA\10551818" lastusagedate="20211123T094835Z">
-      <prop type="x-Origin">Alignment</prop>
-      <prop type="x-OriginalFormat">TradosTranslatorsWorkbench</prop>
-      <prop type="x-Date:DateTime">20180502T010000Z</prop>
-      <prop type="x-Project Name:SingleString">561 R000094910c_技术救援_救援通道≥1m时的救援方法_</prop>
-      <prop type="x-Language:SinglePicklist">chs-ENG</prop>
-      <prop type="x-Accuracy Level:SinglePicklist">Reference</prop>
-      <prop type="x-Final Reviewer:MultiplePicklist">Dorren Zhou</prop>
-      <tuv xml:lang="zh-CN">
-        <seg>通过对讲装置安抚乘客。</seg>
-      </tuv>
-      <tuv xml:lang="en-US">
-        <seg>Pacify the passenger(s) via an intercom.</seg>
-      </tuv>
-    </tu>
-    <tu creationdate="20211123T094835Z" creationid="ALIGN!" changedate="20240430T053004Z" changeid="TKEASIA\10551818" lastusagedate="20211123T094835Z">
-      <prop type="x-Origin">Alignment</prop>
-      <prop type="x-OriginalFormat">TradosTranslatorsWorkbench</prop>
-      <prop type="x-Date:DateTime">20180502T010000Z</prop>
-      <prop type="x-Project Name:SingleString">561 R000094910c_技术救援_救援通道≥1m时的救援方法_</prop>
-      <prop type="x-Language:SinglePicklist">chs-ENG</prop>
-      <prop type="x-Accuracy Level:SinglePicklist">Reference</prop>
-      <prop type="x-Final Reviewer:MultiplePicklist">Dorren Zhou</prop>
-      <tuv xml:lang="zh-CN">
-        <seg>关闭控制柜门</seg>
-      </tuv>
-      <tuv xml:lang="en-US">
-        <seg>Close the controller door.</seg>
-      </tuv>
-    </tu>
-    <tu creationdate="20211123T094835Z" creationid="ALIGN!" changedate="20240430T053004Z" changeid="TKEASIA\10551818" lastusagedate="20211123T094835Z">
-      <prop type="x-Origin">Alignment</prop>
-      <prop type="x-OriginalFormat">TradosTranslatorsWorkbench</prop>
-      <prop type="x-Date:DateTime">20180502T010000Z</prop>
-      <prop type="x-Project Name:SingleString">561 R000094910c_技术救援_救援通道≥1m时的救援方法_</prop>
-      <prop type="x-Language:SinglePicklist">chs-ENG</prop>
-      <prop type="x-Accuracy Level:SinglePicklist">Reference</prop>
-      <prop type="x-Final Reviewer:MultiplePicklist">Dorren Zhou</prop>
-      <tuv xml:lang="zh-CN">
-        <seg>到达救援楼层，使用三角钥匙开启层门宽度≤150mm，并设置阻门器。</seg>
-      </tuv>
-      <tuv xml:lang="en-US">
-        <seg>Upon reaching the rescue landing, use the triangular key to open the landing door with opening width not exceeding 150 mm, and set the door blocking device.</seg>
-      </tuv>
-    </tu>
-    <tu creationdate="20211123T094835Z" creationid="ALIGN!" changedate="20240430T053004Z" changeid="TKEASIA\10551818" lastusagedate="20211123T094835Z">
-      <prop type="x-Origin">Alignment</prop>
-      <prop type="x-OriginalFormat">TradosTranslatorsWorkbench</prop>
-      <prop type="x-Date:DateTime">20180502T010000Z</prop>
-      <prop type="x-Project Name:SingleString">561 R000094910c_技术救援_救援通道≥1m时的救援方法_</prop>
-      <prop type="x-Language:SinglePicklist">chs-ENG</prop>
-      <prop type="x-Accuracy Level:SinglePicklist">Reference</prop>
-      <prop type="x-Final Reviewer:MultiplePicklist">Dorren Zhou</prop>
-      <tuv xml:lang="zh-CN">
-        <seg>按外呼按钮至少10秒钟，松开后，再按一次，确认电梯不动，验证厅门门锁开关有效。</seg>
-      </tuv>
-      <tuv xml:lang="en-US">
-        <seg>Press the landing call button for not less than 10 seconds, then release it and press it again to confirm that the elevator does not move and verify that the landing door lock switch still does not operate.</seg>
-      </tuv>
-    </tu>
-    <tu creationdate="20211123T094835Z" creationid="ALIGN!" changedate="20240430T053004Z" changeid="TKEASIA\10551818" lastusagedate="20211123T094835Z">
-      <prop type="x-Origin">Alignment</prop>
-      <prop type="x-OriginalFormat">TradosTranslatorsWorkbench</prop>
-      <prop type="x-Date:DateTime">20180502T010000Z</prop>
-      <prop type="x-Project Name:SingleString">561 R000094910c_技术救援_救援通道≥1m时的救援方法_</prop>
-      <prop type="x-Language:SinglePicklist">chs-ENG</prop>
-      <prop type="x-Accuracy Level:SinglePicklist">Reference</prop>
-      <prop type="x-Final Reviewer:MultiplePicklist">Dorren Zhou</prop>
-      <tuv xml:lang="zh-CN">
-        <seg>确认安全通道空间是否满足要求，即上下距离≥1m。</seg>
-      </tuv>
-      <tuv xml:lang="en-US">
-        <seg>Confirm whether the space of safety passage complies with the requirement, i.e. the distance from top to bottom is greater than or equal to 1 m.</seg>
-      </tuv>
-    </tu>
-    <tu creationdate="20211123T094835Z" creationid="ALIGN!" changedate="20240430T053004Z" changeid="TKEASIA\10551818" lastusagedate="20211123T094835Z">
-      <prop type="x-Origin">Alignment</prop>
-      <prop type="x-OriginalFormat">TradosTranslatorsWorkbench</prop>
-      <prop type="x-Date:DateTime">20180502T010000Z</prop>
-      <prop type="x-Project Name:SingleString">561 R000094910c_技术救援_救援通道≥1m时的救援方法_</prop>
-      <prop type="x-Language:SinglePicklist">chs-ENG</prop>
-      <prop type="x-Accuracy Level:SinglePicklist">Reference</prop>
-      <prop type="x-Final Reviewer:MultiplePicklist">Dorren Zhou</prop>
-      <tuv xml:lang="zh-CN">
-        <seg>层门全部打开，并设置阻门器。</seg>
-      </tuv>
-      <tuv xml:lang="en-US">
-        <seg>Open the landing door completely, and set the door blocking device.</seg>
-      </tuv>
-    </tu>
-    <tu creationdate="20211123T094835Z" creationid="ALIGN!" changedate="20240430T053004Z" changeid="TKEASIA\10551818" lastusagedate="20211123T094835Z">
-      <prop type="x-Origin">Alignment</prop>
-      <prop type="x-OriginalFormat">TradosTranslatorsWorkbench</prop>
-      <prop type="x-Date:DateTime">20180502T010000Z</prop>
-      <prop type="x-Project Name:SingleString">561 R000094910c_技术救援_救援通道≥1m时的救援方法_</prop>
-      <prop type="x-Language:SinglePicklist">chs-ENG</prop>
-      <prop type="x-Accuracy Level:SinglePicklist">Reference</prop>
-      <prop type="x-Final Reviewer:MultiplePicklist">Dorren Zhou</prop>
+      <prop type="x-Final Reviewer:MultiplePicklist">Do</prop>
       <tuv xml:lang="zh-CN">
         <seg>帮助乘客离开轿厢。</seg>
       </tuv>
       <tuv xml:lang="en-US">
         <seg>Assist the passenger(s) to get out of the car.</seg>
-      </tuv>
-    </tu>
-    <tu creationdate="20211123T094835Z" creationid="ALIGN!" changedate="20240430T053004Z" changeid="TKEASIA\10551818" lastusagedate="20211123T094835Z">
-      <prop type="x-Origin">Alignment</prop>
-      <prop type="x-OriginalFormat">TradosTranslatorsWorkbench</prop>
-      <prop type="x-Date:DateTime">20180502T010000Z</prop>
-      <prop type="x-Project Name:SingleString">561 R000094910c_技术救援_救援通道≥1m时的救援方法_</prop>
-      <prop type="x-Language:SinglePicklist">chs-ENG</prop>
-      <prop type="x-Accuracy Level:SinglePicklist">Reference</prop>
-      <prop type="x-Final Reviewer:MultiplePicklist">Dorren Zhou</prop>
-      <tuv xml:lang="zh-CN">
-        <seg>拆除阻门器，关闭层门、轿门。</seg>
-      </tuv>
-      <tuv xml:lang="en-US">
-        <seg>Remove the door blocking device, and close the landing door and car door.</seg>
       </tuv>
     </tu>
   </body>
