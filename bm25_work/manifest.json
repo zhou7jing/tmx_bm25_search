@@ -1,0 +1,136 @@
+{
+  "source_type": "tmx",
+  "tmx_path": "C:\\Users\\30056638\\PycharmProjects\\PythonProject_translateagent\\tmx\\561.tmx",
+  "tmx_digest": "7f7c95cc9ec8b0f6ab49b19f4ff31d72",
+  "last_build_at": 1781509698,
+  "aligned_units": 395,
+  "index_items": 790,
+  "cache_file": "C:\\Users\\30056638\\PycharmProjects\\PythonProject_translateagent\\bm25_work\\cache\\aligned_units.jsonl",
+  "index_file": "C:\\Users\\30056638\\PycharmProjects\\PythonProject_translateagent\\bm25_work\\bm25_index.pkl",
+  "min_len": 1,
+  "max_len": 400,
+  "files": {
+    "./tmx/551.tmx": {
+      "digest": "1bb7b32e17d8ef279f4fdf08552bb9db",
+      "updated_at": 1781164744,
+      "units": 384
+    },
+    "./tmx/561.tmx": {
+      "digest": "7f7c95cc9ec8b0f6ab49b19f4ff31d72",
+      "updated_at": 1781164744,
+      "units": 11
+    },
+    "./tmx\\551.tmx": {
+      "digest": "1bb7b32e17d8ef279f4fdf08552bb9db",
+      "updated_at": 1781165936,
+      "units": 384
+    },
+    "./tmx\\561.tmx": {
+      "digest": "7f7c95cc9ec8b0f6ab49b19f4ff31d72",
+      "updated_at": 1781165936,
+      "units": 11
+    },
+    "./tmx\\551 R000093436c_tk meta100 MR&MRL 客梯维保手册 (机械部分)_.tmx": {
+      "digest": "1bb7b32e17d8ef279f4fdf08552bb9db",
+      "updated_at": 1781166579,
+      "units": 384
+    },
+    "./tmx\\561 R000094910c_技术救援_救援通道≥1m时的救援方法_.tmx": {
+      "digest": "7f7c95cc9ec8b0f6ab49b19f4ff31d72",
+      "updated_at": 1781166591,
+      "units": 11
+    },
+    "./tmx\\551 - Copy (2).tmx": {
+      "digest": "1bb7b32e17d8ef279f4fdf08552bb9db",
+      "updated_at": 1781166658,
+      "units": 384
+    },
+    "./tmx\\551 - Copy.tmx": {
+      "digest": "1bb7b32e17d8ef279f4fdf08552bb9db",
+      "updated_at": 1781166658,
+      "units": 384
+    },
+    "./tmx\\551 R000093436c_tk meta100 MR&MRL 客梯维保手册 (机械部分)_ - Copy (2).tmx": {
+      "digest": "1bb7b32e17d8ef279f4fdf08552bb9db",
+      "updated_at": 1781166658,
+      "units": 384
+    },
+    "./tmx\\551 R000093436c_tk meta100 MR&MRL 客梯维保手册 (机械部分)_ - Copy.tmx": {
+      "digest": "1bb7b32e17d8ef279f4fdf08552bb9db",
+      "updated_at": 1781166658,
+      "units": 384
+    },
+    "./tmx\\561 - Copy (2).tmx": {
+      "digest": "7f7c95cc9ec8b0f6ab49b19f4ff31d72",
+      "updated_at": 1781166658,
+      "units": 11
+    },
+    "./tmx\\561 - Copy.tmx": {
+      "digest": "7f7c95cc9ec8b0f6ab49b19f4ff31d72",
+      "updated_at": 1781166658,
+      "units": 11
+    },
+    "./tmx\\561 R000094910c_技术救援_救援通道≥1m时的救援方法_ - Copy (2).tmx": {
+      "digest": "7f7c95cc9ec8b0f6ab49b19f4ff31d72",
+      "updated_at": 1781166658,
+      "units": 11
+    },
+    "./tmx\\561 R000094910c_技术救援_救援通道≥1m时的救援方法_ - Copy.tmx": {
+      "digest": "7f7c95cc9ec8b0f6ab49b19f4ff31d72",
+      "updated_at": 1781166658,
+      "units": 11
+    },
+    "./tmx/551 - Copy (2).tmx": {
+      "digest": "1bb7b32e17d8ef279f4fdf08552bb9db",
+      "updated_at": 1781509697,
+      "units": 384
+    },
+    "./tmx/551 - Copy.tmx": {
+      "digest": "1bb7b32e17d8ef279f4fdf08552bb9db",
+      "updated_at": 1781509697,
+      "units": 384
+    },
+    "./tmx/551 R000093436c_tk meta100 MR&MRL 客梯维保手册 (机械部分)_ - Copy (2).tmx": {
+      "digest": "1bb7b32e17d8ef279f4fdf08552bb9db",
+      "updated_at": 1781509698,
+      "units": 384
+    },
+    "./tmx/551 R000093436c_tk meta100 MR&MRL 客梯维保手册 (机械部分)_ - Copy.tmx": {
+      "digest": "1bb7b32e17d8ef279f4fdf08552bb9db",
+      "updated_at": 1781509698,
+      "units": 384
+    },
+    "./tmx/551 R000093436c_tk meta100 MR&MRL 客梯维保手册 (机械部分)_.tmx": {
+      "digest": "1bb7b32e17d8ef279f4fdf08552bb9db",
+      "updated_at": 1781509698,
+      "units": 384
+    },
+    "./tmx/561 - Copy (2).tmx": {
+      "digest": "7f7c95cc9ec8b0f6ab49b19f4ff31d72",
+      "updated_at": 1781509698,
+      "units": 11
+    },
+    "./tmx/561 - Copy.tmx": {
+      "digest": "7f7c95cc9ec8b0f6ab49b19f4ff31d72",
+      "updated_at": 1781509698,
+      "units": 11
+    },
+    "./tmx/561 R000094910c_技术救援_救援通道≥1m时的救援方法_ - Copy (2).tmx": {
+      "digest": "7f7c95cc9ec8b0f6ab49b19f4ff31d72",
+      "updated_at": 1781509698,
+      "units": 11
+    },
+    "./tmx/561 R000094910c_技术救援_救援通道≥1m时的救援方法_ - Copy.tmx": {
+      "digest": "7f7c95cc9ec8b0f6ab49b19f4ff31d72",
+      "updated_at": 1781509698,
+      "units": 11
+    },
+    "./tmx/561 R000094910c_技术救援_救援通道≥1m时的救援方法_.tmx": {
+      "digest": "7f7c95cc9ec8b0f6ab49b19f4ff31d72",
+      "updated_at": 1781509698,
+      "units": 11
+    }
+  },
+  "tmx_dir": "C:\\Users\\30056638\\PycharmProjects\\PythonProject_translateagent\\tmx",
+  "file_count": 12
+}
